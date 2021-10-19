@@ -1,0 +1,458 @@
+School ID,School,Program Name,"Program Location, State",Tuition Max,Living Expenses Max,Non-Payment Periods,IR 36,IR 60,IO 36,IO 60,DEF 36,DEF 60,market_segment,Partnership Page URL,DT/OL 36,DT/OL 60,Living Expense Loan Available,Living Expense Months (Length of program)
+1,4Geeks Academy,Full Stack Software Development - Full-time,"Miami, FL",9499,3000,0,yes,yes,no,no,no,no,SK4GFS19,partner.ascentfunding.com/4geeksacademy,no,no,no,3
+1,4Geeks Academy,Full Stack Software Development - Part-time,"Miami, FL",7499,,0,yes,yes,no,no,no,no,SK4G18,partner.ascentfunding.com/4geeksacademy,no,no,no,4
+3,Austin Coding Academy,Full Stack Javascript,"Austin, TX",10960,,12,yes,yes,yes,yes,yes,yes,SKACFSJ18,partner.ascentfunding.com/austincodingacademy,no,no,no,9
+3,Austin Coding Academy,UX Design,"Austin, TX",10960,,10,yes,yes,yes,yes,yes,yes,SKACUX18,partner.ascentfunding.com/austincodingacademy,no,no,no,7
+5,Bethel Tech,Data Science Online,Online,15900,,9,yes,yes,yes,yes,yes,yes,SKBTDSO18,partner.ascentfunding.com/betheltech,no,no,no,6
+5,Bethel Tech,Web Development Online,Online,15900,,11,yes,yes,yes,yes,yes,yes,SKBTOWD17,partner.ascentfunding.com/betheltech,no,no,no,8
+6,BoiseCodeWorks,Full Stack Immersive,"Boise, ID",7800,3000,6,no,no,yes,yes,yes,yes,SFBOII17,partner.ascentfunding.com/boisecodeworks,no,no,no,4
+7,Bottega,Fulltime Software Development In Person,"Salt Lake City, UT",12000,4000,6,no,no,yes,yes,yes,yes,SKBOTSD17,partner.ascentfunding.com/bottega,no,no,no,3
+7,Bottega,Fulltime Software Development Remote,Online,12000,4000,6,no,no,yes,yes,yes,yes,SKBOTSDR17,partner.ascentfunding.com/bottega,no,no,no,3
+7,Bottega,Part Time Software Development,"Salt Lake City, UT",7500,,10,yes,yes,yes,yes,yes,yes,SKBOTSDP17,partner.ascentfunding.com/bottega,no,no,no,7
+8,Burlington Code Academy,Web Development Bootcamp,"Hartford, CT",9950,,6,no,no,yes,yes,yes,yes,SKBU18,partner.ascentfunding.com/burlingtoncodeacademy,no,no,no,3
+8,Burlington Code Academy,JavaScript After Hours,"Burlington, VT",3950,,5,no,no,yes,yes,yes,yes,SKBURJS19,partner.ascentfunding.com/burlingtoncodeacademy,no,no,no,3
+8,Burlington Code Academy,Web Development Bootcamp,"Burlington, VT",9950,,6,no,no,yes,yes,yes,yes,SKBU18,partner.ascentfunding.com/burlingtoncodeacademy,no,no,no,3
+12,Career Foundry,UI Design Program,Online,6900,,13,yes,yes,yes,yes,yes,yes,SKCFUID18,partner.ascentfunding.com/careerfoundry,no,no,no,10
+12,Career Foundry,UX Design Program,Online,6900,,13,yes,yes,yes,yes,yes,yes,SKCFUXC18,partner.ascentfunding.com/careerfoundry,no,no,no,10
+12,Career Foundry,Web Development Program,Online,6900,,10,yes,yes,yes,yes,yes,yes,SKCFWD18,partner.ascentfunding.com/careerfoundry,no,no,no,7
+13,Carolina Code School,Web Development,"Greenville, SC",13900,3000,6,no,no,yes,yes,yes,yes,SKCARCD18,partner.ascentfunding.com/carolinacodeschool,no,no,no,3
+52,MAX Technical Training,.NET Bootcamp,"Cincinnati, OH",14000,3000,5,no,no,yes,yes,yes,yes,SKCINNET17,partner.ascentfunding.com/maxtrain,no,no,no,3
+52,MAX Technical Training,Java Bootcamp,"Cincinnati, OH",14000,3000,5,no,no,yes,yes,yes,yes,SKCINJAV17,partner.ascentfunding.com/maxtrain,no,no,no,3
+52,MAX Technical Training,Java Developer Bootcamp- Part-Time,"Cincinnati, OH",14000,,10,no,no,yes,yes,yes,yes,SKCINJAV18,partner.ascentfunding.com/maxtrain,no,no,no,7
+14,Code Fellows,Software Development Daytime,"Seattle, WA",23000,6750,7,no,no,yes,yes,yes,yes,SKCFFT18,partner.ascentfunding.com/codefellows,no,no,no,5
+14,Code Fellows,Software Development Nights & Weekends,"Seattle, WA",23000,,0,yes,yes,no,no,no,no,SKCFPT18,partner.ascentfunding.com/codefellows,no,no,no,9
+15,Codesmith,Software Engineering Immersive,"Venice, CA",19350,6000,6,no,no,yes,yes,yes,yes,SKCSMItH19,partner.ascentfunding.com/codesmith,no,no,no,3
+15,Codesmith,Software Engineering Immersive,"New York City, NY",19350,6000,6,no,no,yes,yes,yes,yes,SKCSMItH19,partner.ascentfunding.com/codesmith,no,no,no,3
+16,Codeup,Full Stack Bootcamp,"San Antonio, TX",27500,,8,no,no,yes,yes,yes,yes,SFCUP19,partner.ascentfunding.com/codeup,no,no,no,5
+17,Coding Dojo,Onsite Bootcamp,"Los Angeles, CA",15995,,6,no,no,yes,yes,yes,yes,SKCD17,partner.ascentfunding.com/codingdojo,no,no,no,4
+17,Coding Dojo,Onsite Bootcamp,"Silicon Valley, CA",15995,,6,no,no,yes,yes,yes,yes,SKCD17,partner.ascentfunding.com/codingdojo,no,no,no,4
+17,Coding Dojo,Onsite Bootcamp,"Chicago, IL",15995,,6,no,no,yes,yes,yes,yes,SKCD17,partner.ascentfunding.com/codingdojo,no,no,no,4
+17,Coding Dojo,Onsite Bootcamp,"Dallas, TX",15995,,6,no,no,yes,yes,yes,yes,SKCD17,partner.ascentfunding.com/codingdojo,no,no,no,4
+17,Coding Dojo,Online Full-time Bootcamp,Online,15995,,6,no,no,yes,yes,yes,yes,SKDOJOO19,partner.ascentfunding.com/codingdojo,no,no,no,4
+17,Coding Dojo,Onsite Bootcamp,"Seattle, WA",15995,,6,no,no,yes,yes,yes,yes,SKCD17,partner.ascentfunding.com/codingdojo,no,no,no,4
+20,Covalence,Immersive Part-Time Catalyst Program,Online,9500,3000,9,yes,no,yes,no,yes,no,SKCOVM19,partner.ascentfunding.com/covalence,no,no,no,7
+20,Covalence,Immersive Full-Time Catalyst Program,Online,9500,3000,12,no,no,yes,no,yes,no,SKCOVON18,partner.ascentfunding.com/covalence,no,no,no,9
+24,DeltaV,Code 201,"Cedar Rapids, IA",3500,,4,no,no,yes,yes,yes,yes,SKDV217,partner.ascentfunding.com/deltavcodeschool,no,no,no,1
+24,DeltaV,Code 201+301,"Cedar Rapids, IA",8000,,5,no,no,yes,yes,yes,yes,SKDV2317,partner.ascentfunding.com/deltavcodeschool,no,no,no,2
+24,DeltaV,Code 201+301+401,"Cedar Rapids, IA",20000,,7,no,no,yes,yes,yes,yes,SKDV23417,partner.ascentfunding.com/deltavcodeschool,no,no,no,5
+24,DeltaV,Code 301,"Cedar Rapids, IA",4500,,4,no,no,yes,yes,yes,yes,SKDV317,partner.ascentfunding.com/deltavcodeschool,no,no,no,1
+24,DeltaV,Code 301+401,"Cedar Rapids, IA",16500,,6,no,no,yes,yes,yes,yes,SKDV3417,partner.ascentfunding.com/deltavcodeschool,no,no,no,4
+24,DeltaV,Code 401,"Cedar Rapids, IA",12000,,5,no,no,yes,yes,yes,yes,SKDV417,partner.ascentfunding.com/deltavcodeschool,no,no,no,3
+25,devCodeCamp,Software Development Bootcamp,Online,15500,,6,no,no,yes,yes,yes,yes,SADCC17,partner.ascentfunding.com/devcodecamp,no,no,no,4
+26,DevLeague,Cybersecurity - Part Time,Online,15000,,9,yes,no,yes,no,yes,no,SKDLCSP19,partner.ascentfunding.com/devleague,no,no,no,7
+26,DevLeague,Full Stack Developer - Part Time,"Honolulu, HI",15000,,12,yes,no,yes,no,yes,no,SKDLJSFT19,partner.ascentfunding.com/devleague,no,no,no,10
+27,DevMountain,Web Development Full-Time In-Person,"Phoenix, AZ",9450,3000,6,no,no,yes,yes,yes,yes,SKDMWD17,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,Web Development Full-Time In-Person,"Dallas, TX",9450,3000,6,no,no,yes,yes,yes,yes,SKDMWD17,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,iOS Development Full-Time Remote,Online,7450,3000,6,no,no,yes,yes,yes,yes,SKDMIOSR20,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,Software Quality Assurance Full-Time Remote,Online,4450,3000,4,no,no,yes,yes,yes,yes,SKDMQA19,partner.ascentfunding.com/devmountain,no,no,no,2
+27,DevMountain,UX Design Full-Time In-Person,"Lehi, UT",9450,3000,6,no,no,yes,yes,yes,yes,SKDMUX17,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,UX Design Part-Time Remote,Online,7450,,7,yes,yes,yes,yes,yes,yes,SKDMUXAH19,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,Web Development Full-Time Remote,Online,7450,3000,6,no,no,yes,yes,yes,yes,SKDMWDR19,partner.ascentfunding.com/devmountain,no,no,no,4
+28,DigitalCrafts,Full Stack Flex,"Atlanta, GA",9950,,0,yes,yes,no,no,no,no,SFDCFX17,partner.ascentfunding.com/digitalcrafts,no,no,no,7
+28,DigitalCrafts,Full Stack Immersive,"Atlanta, GA",14950,6000,7,no,no,yes,yes,yes,yes,SFDCIE17,partner.ascentfunding.com/digitalcrafts,no,no,no,4
+28,DigitalCrafts,Full Stack Flex,"Houston, TX",9950,,0,yes,yes,no,no,no,no,SFDCFX17,partner.ascentfunding.com/digitalcrafts,no,no,no,7
+28,DigitalCrafts,Full Stack Immersive,"Houston, TX",14950,6000,7,no,no,yes,yes,yes,yes,SFDCIE17,partner.ascentfunding.com/digitalcrafts,no,no,no,4
+29,Divergence Academy,Risk Management Programs Part Time,"Dallas, TX",18000,,0,yes,yes,no,no,no,no,SKDVRMPT17,partner.ascentfunding.com/divergence,no,no,no,10
+29,Divergence Academy,Cybersecurity Pen Testing Full Time,"Dallas, TX",18000,4500,8,no,no,yes,yes,yes,yes,SKDVCP17,partner.ascentfunding.com/divergence,no,no,no,5
+29,Divergence Academy,Cybersecurity Pen Testing Part Time,"Dallas, TX",18000,,0,yes,yes,no,no,no,no,SKCVCPPT17,partner.ascentfunding.com/divergence,no,no,no,10
+29,Divergence Academy,Cybersecurity Core Program Full Time,"Dallas, TX",13000,4500,5,no,no,yes,yes,yes,yes,SKDVCC17,partner.ascentfunding.com/divergence,no,no,no,3
+29,Divergence Academy,Cybersecurity Core Program Part Time,"Dallas, TX",13000,,0,yes,yes,no,no,no,no,SKDVCCPT17,partner.ascentfunding.com/divergence,no,no,no,10
+29,Divergence Academy,Data Science Immersive,"Dallas, TX",17000,4500,6,no,no,yes,yes,yes,yes,SKDVDS17,partner.ascentfunding.com/divergence,no,no,no,3
+29,Divergence Academy,Risk Management Programs Full Time,"Dallas, TX",18000,4500,5,no,no,yes,yes,yes,yes,SKDVRM17,partner.ascentfunding.com/divergence,no,no,no,3
+30,Eleven Fifty Academy,Software Development Full-Time,"Indianapolis, IN",13500,,6,no,no,yes,no,yes,no,SK11NET,partner.ascentfunding.com/elevenfifty,no,no,no,3
+30,Eleven Fifty Academy,Software Development Part-Time,"Indianapolis, IN",12500,,9,no,no,yes,no,yes,no,SK1150NE19,partner.ascentfunding.com/elevenfifty,no,no,no,6
+30,Eleven Fifty Academy,Cyber Security Full-Time,"Indianapolis, IN",20000,,6,no,no,yes,no,yes,no,SK1150CS19,partner.ascentfunding.com/elevenfifty,no,no,no,3
+30,Eleven Fifty Academy,Cyber Security Part-time,"Indianapolis, IN",19000,,9,no,no,yes,no,yes,no,SK1150CSPT19,partner.ascentfunding.com/elevenfifty,no,no,no,6
+30,Eleven Fifty Academy,Web Development Full-Time,"Indianapolis, IN",13500,,6,no,no,yes,no,yes,no,SK11J,partner.ascentfunding.com/elevenfifty,no,no,no,3
+30,Eleven Fifty Academy,Web Development Part-Time,"Indianapolis, IN",12500,,9,no,no,yes,no,yes,no,SK1150JS19,partner.ascentfunding.com/elevenfifty,no,no,no,6
+30,Eleven Fifty Academy,Python Programming,"Indianapolis, IN",13500,,6,no,no,yes,no,yes,no,SK1150PY19,partner.ascentfunding.com/elevenfifty,no,no,no,3
+33,Epicodus,Mobile & Web Development,"Portland, OR",11600,2500,9,no,no,yes,yes,yes,yes,SKEP17,partner.ascentfunding.com/epicodus,no,no,no,7
+33,Epicodus,Mobile & Web Development,"Seattle, WA",11600,2500,9,no,no,yes,yes,yes,yes,SKEP17,partner.ascentfunding.com/epicodus,no,no,no,7
+34,Evolve Security Academy,IN-PERSON Bootcamp,"Chicago, IL",13500,3000,7,no,no,yes,yes,yes,yes,SKEV17,partner.ascentfunding.com/evolveacademy,no,no,no,4
+34,Evolve Security Academy,Bootcamp Remote,Online,13500,,7,no,no,yes,yes,yes,yes,SKEVONL17,partner.ascentfunding.com/evolveacademy,no,no,no,4
+35,Flatiron School,Data Science,"San Francisco, CA",16400,7500,6,no,no,yes,no,yes,no,SKFIDS18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"San Francisco, CA",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Data Science,"Denver, CO",16400,7500,6,no,no,yes,no,yes,no,SKFIDS18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"Denver, CO",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Data Science,"Washington, DC",16400,7500,6,no,no,yes,no,yes,no,SKFIDS18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"Washington, DC",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Data Science,"Chicago, IL",16400,7500,6,no,no,yes,no,yes,no,SKFIDS18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"Chicago, IL",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Data Science,"New York City, NY",16400,7500,6,no,no,yes,no,yes,no,SKFIDS18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"New York City, NY",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"Austin, TX",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"Dallas, TX",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Data Science,"Houston, TX",16400,7500,6,no,no,yes,no,yes,no,SKFIDS18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"Houston, TX",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Data Science,"Seattle, WA",16400,7500,6,no,no,yes,no,yes,no,SKFIDS18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Data Science,"Seattle, WA",16400,7500,6,no,no,yes,no,yes,no,SKFIDS18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"Seattle, WA",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Software Engineering,"Seattle, WA",16400,7500,6,no,no,yes,no,yes,no,SKFIWD18,partner.ascentfunding.com/flatironschool,no,no,no,4
+38,Fullstack Academy,Flex Part-Time Immersive,"New York City, NY",15980,,9,yes,yes,yes,yes,yes,yes,SKFSFLEX17,partner.ascentfunding.com/fullstackacademy,no,no,no,6
+38,Fullstack Academy,Fullstack Cyber Bootcamp,"New York City, NY",15980,8205,7,no,no,yes,yes,yes,yes,SKFSIP19,partner.ascentfunding.com/fullstackacademy,no,no,no,4
+38,Fullstack Academy,Fulltime Software Engineering Immersive,"New York City, NY",17910,6500,6,no,no,yes,yes,yes,yes,SKFSFTSE17,partner.ascentfunding.com/fullstackacademy,no,no,no,4
+38,Fullstack Academy,Live Online Coding Bootcamp,Online,17910,6500,7,no,no,yes,yes,yes,yes,SKFSRI,partner.ascentfunding.com/fullstackacademy,no,no,no,4
+9,Cal Poly Extended Education,Remote Software Engineering Immersive at Cal Poly SLO,Online,11910,,9,no,no,yes,yes,yes,yes,SKFSRIMM18,partner.ascentfunding.com/calpolyextendedbootcamp,no,no,no,7
+39,Galvanize,Data Science,"Phoenix, AZ",15980,9000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"Phoenix, AZ",15980,9000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Data Science,"San Francisco, CA",15980,12000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Remote Data Science,Online,15980,9000,6,no,no,yes,yes,yes,yes,SKGALRE19,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"San Francisco, CA",15980,12000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Data Science,"Boulder, CO",15980,9000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"Boulder, CO",15980,9000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Data Science,"Platte, CO",15980,9000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"Platte, CO",15980,9000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Data Science,"New York City, NY",15980,12000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"New York City, NY",15980,12000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Data Science,"Austin, TX",15980,9000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"Austin, TX",15980,9000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Data Science,"Seattle, WA",15980,12000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"Seattle, WA",15980,12000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+40,Grand Circus,.NET,"Detroit, MI",11500,2500,6,no,no,yes,yes,yes,yes,SKGCNET18,partner.ascentfunding.com/grandcircus,no,no,no,3
+40,Grand Circus,Front-End Bootcamp,"Detroit, MI",11500,2500,6,no,no,yes,yes,yes,yes,SKGCFE18,partner.ascentfunding.com/grandcircus,no,no,no,3
+40,Grand Circus,Java Bootcamp,"Detroit, MI",11500,2500,6,no,no,yes,yes,yes,yes,SKGCJAV18,partner.ascentfunding.com/grandcircus,no,no,no,3
+40,Grand Circus,Part Time .Net (C#),"Detroit, MI",11500,,0,yes,yes,no,no,no,no,SKGCPNE18,partner.ascentfunding.com/grandcircus,no,no,no,4
+40,Grand Circus,Part Time Front-End Bootcamp,"Detroit, MI",11500,2500,9,no,no,yes,yes,yes,yes,SKGCPTFE17,partner.ascentfunding.com/grandcircus,no,no,no,6
+40,Grand Circus,Part Time Unity Bootcamp,"Detroit, MI",11500,,6,no,no,yes,yes,yes,yes,SKGCPTU18,partner.ascentfunding.com/grandcircus,no,no,no,3
+40,Grand Circus,.NET,"Grand Rapids, MI",11500,2500,6,no,no,yes,yes,yes,yes,SKGCNET18,partner.ascentfunding.com/grandcircus,no,no,no,3
+40,Grand Circus,Front-End Bootcamp,"Grand Rapids, MI",11500,2500,6,no,no,yes,yes,yes,yes,SKGCFE18,partner.ascentfunding.com/grandcircus,no,no,no,3
+40,Grand Circus,Part Time .Net (C#),"Grand Rapids, MI",11500,,0,yes,yes,no,no,no,no,SKGCPNE18,partner.ascentfunding.com/grandcircus,no,no,no,4
+40,Grand Circus,Part Time Front-End Bootcamp,"Grand Rapids, MI",11500,2500,9,no,no,yes,yes,yes,yes,SKGCPTFE17,partner.ascentfunding.com/grandcircus,no,no,no,6
+41,Hack Reactor,Software Engineering,"Los Angeles, CA",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+41,Hack Reactor,Summer Coding Abbreviated Track,"Los Angeles, CA",10500,,4,no,no,yes,yes,yes,yes,SKHRCAA18,partner.ascentfunding.com/hackreactor,no,no,no,2
+41,Hack Reactor,Summer Coding Full Length Track,"Los Angeles, CA",17980,,8,no,no,yes,yes,yes,yes,SKHRCFLA18,partner.ascentfunding.com/hackreactor,no,no,no,5
+41,Hack Reactor,Remote Full Time,Online,15980,7500,6,no,no,yes,yes,yes,yes,SKHRRFTB18,partner.ascentfunding.com/hackreactor,no,no,no,4
+41,Hack Reactor,Remote Part Time,Online,15980,,12,no,no,yes,yes,yes,yes,SKHRRPTA18,partner.ascentfunding.com/hackreactor,no,no,no,9
+41,Hack Reactor,Software Engineering,"San Francisco, CA",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+41,Hack Reactor,Summer Coding Abbreviated Track,"San Francisco, CA",10500,,4,no,no,yes,yes,yes,yes,SKHRCAA18,partner.ascentfunding.com/hackreactor,no,no,no,2
+41,Hack Reactor,Summer Coding Full Length Track,"San Francisco, CA",17980,,8,no,no,yes,yes,yes,yes,SKHRCFLA18,partner.ascentfunding.com/hackreactor,no,no,no,5
+41,Hack Reactor,Software Engineering,"New York City, NY",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+41,Hack Reactor,Summer Coding Abbreviated Track,"New York City, NY",10500,,4,no,no,yes,yes,yes,yes,SKHRCAA18,partner.ascentfunding.com/hackreactor,no,no,no,2
+41,Hack Reactor,Summer Coding Full Length Track,"New York City, NY",17980,,8,no,no,yes,yes,yes,yes,SKHRCFLA18,partner.ascentfunding.com/hackreactor,no,no,no,5
+41,Hack Reactor,Software Engineering,"Austin, TX",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+41,Hack Reactor,Summer Coding Abbreviated Track,"Austin, TX",10500,,4,no,no,yes,yes,yes,yes,SKHRCAA18,partner.ascentfunding.com/hackreactor,no,no,no,2
+41,Hack Reactor,Summer Coding Full Length Track,"Austin, TX",17980,,8,no,no,yes,yes,yes,yes,SKHRCFLA18,partner.ascentfunding.com/hackreactor,no,no,no,5
+42,Hackbright Academy,Software Engineering Remote,Online,12650,7500,5,no,no,yes,yes,yes,yes,SFHB17,partner.ascentfunding.com/hackbrightacademy,no,no,no,3
+42,Hackbright Academy,Software Engineering Fellowship Part Time,"San Francisco, CA",14650,,9,no,no,yes,yes,yes,yes,SKHBPT17,partner.ascentfunding.com/hackbrightacademy,no,no,no,7
+44,Inventive Academy,Fullstack Immersive,"Austin, TX",13000,,0,yes,yes,no,no,no,no,SKINVTI18,partner.ascentfunding.com/inventive,no,no,no,7
+44,Inventive Academy,Fullstack Online,Online,11000,,0,yes,yes,no,no,no,no,SKINVTO18,partner.ascentfunding.com/inventive,no,no,no,7
+45,Ironhack,Full-Time UX/UI Design,"Miami, FL",12500,5000,5,yes,no,yes,no,yes,no,SKIHUXI19,partner.ascentfunding.com/ironhack,no,no,no,3
+45,Ironhack,Full-Time Web Development,"Miami, FL",12500,5000,5,yes,no,yes,no,yes,no,SFIHFT19,partner.ascentfunding.com/ironhack,no,no,no,3
+45,Ironhack,Part-Time UX Design,"Miami, FL",12500,,9,yes,no,yes,no,yes,no,SKIHUXPT19,partner.ascentfunding.com/ironhack,no,no,no,6
+45,Ironhack,Part-time Web Development,"Miami, FL",12500,,9,yes,no,yes,no,yes,no,SFIHPT19,partner.ascentfunding.com/ironhack,no,no,no,6
+48,Launch Academy,Web Development (Software Development),"Boston, MA",16500,6000,7,no,no,yes,yes,yes,yes,SKLWD18,partner.ascentfunding.com/launchacademy,no,no,no,5
+49,Learn Academy,Full-Time Immersive,"San Diego, CA",14000,,7,no,no,yes,yes,yes,yes,SFL17,partner.ascentfunding.com/learn,no,no,no,4
+50,LearningFuze,Full-Immersion Bootcamp,"Irvine, CA",13995,4500,6,no,no,yes,yes,yes,yes,SKLFIM17,partner.ascentfunding.com/learningfuze,no,no,no,3
+55,Momentum Learning,Immersive Coding,Online,16500,4500,7,no,no,yes,yes,yes,yes,SKMOMSD17,partner.ascentfunding.com/momentumlearn,no,no,no,4
+55,Momentum Learning,Immersive Coding + Child Care,Online,16500,7500,7,no,no,yes,yes,yes,yes,SKMOMSC17,partner.ascentfunding.com/momentumlearn,no,no,no,4
+57,Nashville Software School,Data Analytics,"Nashville, TN",6000,,9,no,no,yes,no,yes,no,SKNSHDS19,partner.ascentfunding.com/nashvillesoftwareschool,no,no,no,7
+57,Nashville Software School,Data Science Bootcamp Part-Time,"Nashville, TN",10000,,12,no,no,yes,no,yes,no,SKNASHDS17,partner.ascentfunding.com/nashvillesoftwareschool,no,no,no,10
+57,Nashville Software School,Full-Time Front End Web Designer,"Nashville, TN",10000,,9,no,no,yes,no,yes,no,SKNASHFR17,partner.ascentfunding.com/nashvillesoftwareschool,no,no,no,7
+57,Nashville Software School,Full-Time Web Development,"Nashville, TN",10000,,9,no,no,yes,no,yes,no,SKNASHWEB1,partner.ascentfunding.com/nashvillesoftwareschool,no,no,no,7
+57,Nashville Software School,Part-Time Web Development,"Nashville, TN",10000,,0,yes,no,no,no,no,no,SKNSSWPT17,partner.ascentfunding.com/nashvillesoftwareschool,no,no,no,13
+63,North American Lineman Training Center,Lineworker Training,"McEwen, TN",10830,,6,no,no,yes,no,yes,no,SKNALTC18,partner.ascentfunding.com/naltc,no,no,no,4
+65,NYC Data Science Academy,Data Science Bootcamp - Live Online,Online,17600,7500,6,no,no,yes,yes,yes,yes,SFNYCDSA,partner.ascentfunding.com/nycdatascience,no,no,no,3
+65,NYC Data Science Academy,Data Science Bootcamp - Online Part-Time,Online,17600,,0,yes,yes,no,no,no,no,SFNYCDSAPT,partner.ascentfunding.com/nycdatascience,no,no,no,6
+65,NYC Data Science Academy,Data Science Bootcamp - Online Full-Time,Online,17600,,7,no,no,yes,yes,yes,yes,SKNYSANY18,partner.ascentfunding.com/nycdatascience,no,no,no,4
+68,Operation Spark,Immersion Bootcamp,"New Orleans, LA",11000,4500,6,no,no,yes,no,yes,no,SKOSIM17,partner.ascentfunding.com/operationspark,no,no,no,3
+70,PDX Code Guild,Advanced JavaScript/Node and React,"Portland, OR",11500,7500,5,no,no,yes,yes,yes,yes,SKPDXAJ17,partner.ascentfunding.com/pdxcodeguild,no,no,no,3
+70,PDX Code Guild,Fullstack Day Bootcamp,"Portland, OR",18500,7500,6,no,no,yes,yes,yes,yes,SKPDXD17,partner.ascentfunding.com/pdxcodeguild,no,no,no,3
+70,PDX Code Guild,Fullstack Evening Bootcamp,"Portland, OR",16500,,0,yes,yes,no,no,no,no,SKPDXDEV17,partner.ascentfunding.com/pdxcodeguild,no,no,no,4
+71,Prime Digital Academy,Full Stack Engineering,"Minneapolis, MN",16000,5000,8,no,no,yes,yes,yes,yes,SFPASE17,partner.ascentfunding.com/primeacademy,no,no,no,5
+71,Prime Digital Academy,UX Design,"Minneapolis, MN",16000,5000,7,no,no,yes,yes,yes,yes,SFPAUX17,partner.ascentfunding.com/primeacademy,no,no,no,5
+71,Prime Digital Academy,Full Stack Engineering,"Kansas City, MO",16000,5000,8,no,no,yes,yes,yes,yes,SFPASE17,partner.ascentfunding.com/primeacademy,no,no,no,5
+71,Prime Digital Academy,UX Design,"Kansas City, MO",16000,5000,7,no,no,yes,yes,yes,yes,SFPAUX17,partner.ascentfunding.com/primeacademy,no,no,no,5
+99,Redwood Code Academy,Full Software Immersion,"Santa Ana, CA",13500,8000,6,yes,yes,yes,yes,yes,yes,SKRCA17,partner.ascentfunding.com/redwoodcodeacademy,no,no,no,3
+99,Redwood Code Academy,Part Time Software Development,"Santa Ana, CA",11000,,9,yes,yes,yes,yes,yes,yes,SKRWPT18,partner.ascentfunding.com/redwoodcodeacademy,no,no,no,6
+74,Rithm School,Software Development Bootcamp,"San Francisco, CA",23000,6000,7,no,no,yes,yes,yes,yes,SKRTHM,partner.ascentfunding.com/rithmschool,no,no,no,4
+75,Sabio,AWS Cloud Program,"Culver City, CA",9995,1000,6,yes,yes,yes,yes,yes,yes,SKSAAWS19,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,Cyber Security,"Culver City, CA",15000,6000,0,yes,yes,no,no,no,no,SKSABCS18,partner.ascentfunding.com/sabio,no,no,no,5
+75,Sabio,FullStack Web Development - .NET,"Culver City, CA",16999,6000,6,no,no,yes,yes,yes,yes,SFSB17,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,FullStack Web Development - NODE,"Culver City, CA",16999,6000,6,no,no,yes,yes,yes,yes,SKSBNODE17,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,AWS Cloud Program,"Irvine, CA",9995,1000,6,yes,yes,yes,yes,yes,yes,SKSAAWS19,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,FullStack Web Development - .NET,"Irvine, CA",15499,6000,6,no,no,yes,yes,yes,yes,SFSB17,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,FullStack Web Development - NODE,"Irvine, CA",15499,6000,6,no,no,yes,yes,yes,yes,SKSBNODE17,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,AWS Cloud Program,"Los Angeles, CA",9995,1000,6,yes,yes,yes,yes,yes,yes,SKSAAWS19,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,Cyber Security,"Los Angeles, CA",16999,6000,0,yes,yes,no,no,no,no,SKSABCS18,partner.ascentfunding.com/sabio,no,no,no,5
+75,Sabio,FullStack Web Development - .NET,"Los Angeles, CA",16999,6000,6,no,no,yes,yes,yes,yes,SFSB17,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,FullStack Web Development - NODE,"Los Angeles, CA",16999,6000,6,no,no,yes,yes,yes,yes,SKSBNODE17,partner.ascentfunding.com/sabio,no,no,no,3
+75,Sabio,Part-Time Fullstack,"Los Angeles, CA",13500,,9,yes,yes,yes,yes,yes,yes,SKSABPT19,partner.ascentfunding.com/sabio,no,no,no,6
+79,SecureSet Academy,Core Program (CORE),"Colorado Springs, CO",19450,7500,8,no,no,yes,no,yes,no,SASSCORE17,partner.ascentfunding.com/secureset,no,no,no,5
+79,SecureSet Academy,HUNT Program,"Colorado Springs, CO",11450,7500,6,no,no,yes,no,yes,no,SASSHUNT17,partner.ascentfunding.com/secureset,no,no,no,3
+79,SecureSet Academy,PATH Progam (CORE Evening),"Colorado Springs, CO",15450,,0,yes,no,no,no,no,no,SASSCOEV17,partner.ascentfunding.com/secureset,no,no,no,9
+79,SecureSet Academy,Core Program (CORE),"Denver, CO",19450,7500,8,no,no,yes,no,yes,no,SASSCORE17,partner.ascentfunding.com/secureset,no,no,no,5
+79,SecureSet Academy,HUNT Program,"Denver, CO",11450,7500,6,no,no,yes,no,yes,no,SASSHUNT17,partner.ascentfunding.com/secureset,no,no,no,3
+79,SecureSet Academy,PATH Progam (CORE Evening),"Denver, CO",15450,,0,yes,no,no,no,no,no,SASSCOEV17,partner.ascentfunding.com/secureset,no,no,no,9
+82,Suncoast Developers Guild,Web Development (Immersive),Online,13900,3500,6,no,no,yes,yes,yes,yes,SKSC18,partner.ascentfunding.com/suncoast,no,no,no,3
+83,Tech Elevator,Tech Elevator Program,"Detroit, MI",15500,4000,6,no,no,yes,yes,yes,yes,SFTE17A,partner.ascentfunding.com/techelevator,no,no,no,4
+83,Tech Elevator,Tech Elevator Program,"Cincinnati, OH",15500,4000,6,no,no,yes,yes,yes,yes,SFTE17A,partner.ascentfunding.com/techelevator,no,no,no,4
+83,Tech Elevator,Tech Elevator Program,"Cleveland, OH",15500,4000,6,no,no,yes,yes,yes,yes,SFTE17A,partner.ascentfunding.com/techelevator,no,no,no,4
+83,Tech Elevator,Tech Elevator Program,"Columbus, OH",15500,4000,6,no,no,yes,yes,yes,yes,SFTE17A,partner.ascentfunding.com/techelevator,no,no,no,4
+83,Tech Elevator,Tech Elevator Program,"Pittsburgh, PA",15500,4000,6,no,no,yes,yes,yes,yes,SFTE17A,partner.ascentfunding.com/techelevator,no,no,no,4
+85,The Software Guild,.NET Bootcamp,Online,10000,,6,no,no,yes,yes,yes,yes,SKSGIPN17,partner.ascentfunding.com/thesoftwareguild,no,no,no,3
+85,The Software Guild,Java Bootcamp,Online,10000,,6,no,no,yes,yes,yes,yes,SKSGIPJ17,partner.ascentfunding.com/thesoftwareguild,no,no,no,3
+86,The Tech Academy,Software Development,"Portland, OR",19980,,6,no,no,yes,yes,yes,yes,SKTA,partner.ascentfunding.com/techacademy,no,no,no,4
+87,Thinkful,Data Analytics Flex,Online,8600,,11,yes,no,yes,no,no,no,SKTHDAT19,partner.ascentfunding.com/thinkful,yes,no,no,8
+87,Thinkful,Data Science Flex,Online,10000,,11,yes,no,yes,no,no,no,SFTDDS,partner.ascentfunding.com/thinkful,yes,no,no,8
+87,Thinkful,Data Science Immersion,Online,20000,,8,yes,no,yes,no,no,no,SKTHKIMM19,partner.ascentfunding.com/thinkful,yes,no,no,5
+87,Thinkful,Engineering Flex,Online,10000,,11,yes,no,yes,no,no,no,SFTF,partner.ascentfunding.com/thinkful,yes,no,no,8
+87,Thinkful,Engineering Immersion,Online,17600,,7,yes,no,yes,no,no,no,SFTFIO,partner.ascentfunding.com/thinkful,yes,no,no,4
+87,Thinkful,UX/UI Design Flex,Online,10000,,11,yes,no,yes,no,no,no,SKTHFPD19,partner.ascentfunding.com/thinkful,yes,no,no,8
+88,TrueCoders,Full-Stack Software Engineering,"Hoover, AL",5400,3500,5,no,no,yes,yes,yes,yes,SKTCDA18,partner.ascentfunding.com/truecoders,no,no,no,3
+88,TrueCoders,Full-Stack Web Development,"Hoover, AL",5400,3500,9,no,no,yes,yes,yes,yes,SKTCDNC18,partner.ascentfunding.com/truecoders,no,no,no,7
+89,Turing,Back- End Engineering,Online,19000,16000,10,no,no,yes,yes,yes,yes,SFTUWD17,partner.ascentfunding.com/turing,no,no,no,7
+89,Turing,Front-End Engineering,Online,19000,16000,10,no,no,yes,yes,yes,yes,SFTUFE17,partner.ascentfunding.com/turing,no,no,no,7
+95,V School,Full Stack Javascript,Online,21000,5000,6,no,no,yes,yes,yes,yes,SFVS,partner.ascentfunding.com/vschool,no,no,no,4
+95,V School,UX/UI,Online,21000,5000,9,no,no,yes,yes,yes,yes,SKVUE18,partner.ascentfunding.com/vschool,no,no,no,6
+97,We Can Code IT,Full-Time Coding Bootcamp,"Cleveland, OH",14950,4500,6,no,no,yes,yes,yes,yes,SKWCCIFT18,partner.ascentfunding.com/wecancodeit,no,no,no,4
+97,We Can Code IT,Hybrid Program,"Cleveland, OH",14950,4500,7,yes,yes,yes,yes,yes,yes,SKWCCHY18,partner.ascentfunding.com/wecancodeit,no,no,no,4
+97,We Can Code IT,In-person JavaScript,"Cleveland, OH",14950,4500,6,yes,yes,yes,yes,yes,yes,SKWCCIJS19,partner.ascentfunding.com/wecancodeit,no,no,no,4
+97,We Can Code IT,Full-Time Coding Bootcamp,"Columbus, OH",14950,4500,6,no,no,yes,yes,yes,yes,SKWCCIFT18,partner.ascentfunding.com/wecancodeit,no,no,no,4
+97,We Can Code IT,Hybrid Program,"Columbus, OH",14950,4500,7,yes,yes,yes,yes,yes,yes,SKWCCHY18,partner.ascentfunding.com/wecancodeit,no,no,no,4
+97,We Can Code IT,In-person JavaScript,"Columbus, OH",14950,4500,6,yes,yes,yes,yes,yes,yes,SKWCCIJS19,partner.ascentfunding.com/wecancodeit,no,no,no,4
+92,University of North Florida,University of North Florida Coding Bootcamp,"Jacksonville, FL",11910,,9,no,no,yes,yes,yes,yes,SKFSFL19,partner.ascentfunding.com/unfcodingbootcamp,no,no,no,7
+72,Punchcode,Full Stack Software Engineering,"Las Vegas, NV",12650,3000,6,no,no,yes,no,yes,no,SKPC19,partner.ascentfunding.com/punchcode,no,no,no,3
+45,Ironhack,Full-Time UX/UI Design,"Lisbon, PT",12500,5000,5,yes,no,yes,no,yes,no,SKIHUXI19,partner.ascentfunding.com/ironhack,no,no,no,3
+45,Ironhack,Full-Time Web Development,"Lisbon, PT",12500,5000,5,yes,no,yes,no,yes,no,SFIHFT19,partner.ascentfunding.com/ironhack,no,no,no,3
+45,Ironhack,Part-Time UX/UI Design,"Lisbon, PT",12500,,9,yes,no,yes,no,yes,no,SKIHUXPT19,partner.ascentfunding.com/ironhack,no,no,no,6
+45,Ironhack,Part-Time Web Development,"Lisbon, PT",12500,,9,yes,no,yes,no,yes,no,SFIHPT19,partner.ascentfunding.com/ironhack,no,no,no,6
+73,Codeup Cloud Academy,System Administration,"San Antonio, TX",13500,,6,yes,no,yes,no,yes,no,SAOCSA19,partner.ascentfunding.com/cca,no,no,no,4
+73,Codeup Cloud Academy,Cybersecurity,"San Antonio, TX",17000,,6,yes,no,yes,no,yes,no,SAOCCS19,partner.ascentfunding.com/cca,no,no,no,4
+83,Tech Elevator,Tech Elevator Program,"Philadelphia, PA",15500,4000,6,no,no,yes,yes,yes,yes,SFTE17A,partner.ascentfunding.com/techelevator,no,no,no,4
+38,Fullstack Academy,Fullstack Cyber Bootcamp - Part Time,"New York City, NY",15980,,9,no,no,yes,yes,yes,yes,SKFSIPPT19,partner.ascentfunding.com/fullstackacademy,no,no,no,7
+94,University of San Diego,The University of San Diego Cyber Bootcamp,"San Diego, CA",11910,,6,no,no,yes,yes,yes,yes,SKFSSDCB19,partner.ascentfunding.com/usdbootcamp,no,no,no,3
+87,Thinkful,Data Analytics Immersion,Online,13600,6000,7,yes,no,yes,no,no,no,SKTHDATIM19,partner.ascentfunding.com/thinkful,yes,no,yes,4
+53,Metis,Online Data Science,Online,17000,10000,6,no,no,yes,yes,yes,yes,SKMETAODS19,partner.ascentfunding.com/thisismetis,no,no,no,3
+72,Punchcode,Part-Time Full Stack Software Engineering,"Las Vegas, NV",11150,,9,no,no,yes,no,yes,no,SKPCPTFSSE19,partner.ascentfunding.com/punchcode,no,no,no,6
+8,Burlington Code Academy,User Experience Bootcamp,"Burlington, VT",9950,,6,no,no,yes,yes,yes,yes,SKBURUEB19,partner.ascentfunding.com/burlingtoncodeacademy,no,no,no,3
+8,Burlington Code Academy,User Experience After-Hours,"Burlington, VT",3950,,5,no,no,yes,yes,yes,yes,SKBURUEAH19,partner.ascentfunding.com/burlingtoncodeacademy,no,no,no,3
+87,Thinkful,Product Management Flex,Online,6200,,8,yes,no,yes,no,no,no,SKTHPMF19,partner.ascentfunding.com/thinkful,yes,no,no,5
+87,Thinkful,UX/UI Design Immersion,Online,13500,7500,8,yes,no,yes,no,no,no,SKTHUXD19,partner.ascentfunding.com/thinkful,yes,no,yes,5
+86,The Tech Academy,Software Development,"Denver, CO",19980,,6,no,no,yes,yes,yes,yes,SKTA,partner.ascentfunding.com/techacademy,no,no,no,4
+86,The Tech Academy,Software Development,"Salt Lake City, UT",19980,,6,no,no,yes,yes,yes,yes,SKTA,partner.ascentfunding.com/techacademy,no,no,no,4
+35,Flatiron School,Cybersecurity Analytics,"New York City, NY",16400,7500,6,no,no,yes,no,yes,no,SKFICA19,partner.ascentfunding.com/flatironschool,no,no,no,3
+35,Flatiron School,Cybersecurity Analytics,"Washington, DC",16400,7500,6,no,no,yes,no,yes,no,SKFICA19,partner.ascentfunding.com/flatironschool,no,no,no,3
+35,Flatiron School,Data Science Online - Full Time,Online,16400,,8,no,no,yes,no,yes,no,SKFTFDSO18,partner.ascentfunding.com/flatironschool,no,no,no,5
+35,Flatiron School,Data Science Online - Part Time,Online,16400,,13,no,no,yes,no,yes,no,SKFTPDSO18,partner.ascentfunding.com/flatironschool,no,no,no,10
+35,Flatiron School,Data Science Online - Self Paced,Online,9100,,0,yes,no,no,no,no,no,SKFTSDSO18,partner.ascentfunding.com/flatironschool,no,no,no,14
+35,Flatiron School,Software Engineering Online - Full Time,Online,16400,,8,no,no,yes,no,yes,no,SKFLSEFT,partner.ascentfunding.com/flatironschool,no,no,no,5
+35,Flatiron School,Software Engineering Online - Part Time,Online,16400,,13,no,no,yes,no,yes,no,SKFLSEPT,partner.ascentfunding.com/flatironschool,no,no,no,10
+35,Flatiron School,Software Engineering Online - Self Paced,Online,9100,,0,yes,no,no,no,no,no,SKFLSESP,partner.ascentfunding.com/flatironschool,no,no,no,14
+16,Codeup,Data Science,"San Antonio, TX",29500,,8,no,no,yes,yes,yes,yes,SFCUPDS19,partner.ascentfunding.com/codeup,no,no,no,5
+16,Codeup,Full Stack Bootcamp,"Dallas, TX",27500,,8,no,no,yes,yes,yes,yes,SFCUP19,partner.ascentfunding.com/codeup,no,no,no,5
+35,Flatiron School,Cybersecurity Analytics Online - Full Time,Online,16400,,7,no,no,yes,no,yes,no,SKFLCAOFT19,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Cybersecurity Analytics Online - Part Time,Online,16400,,11,no,no,yes,no,yes,no,SKFLCAOPT19,partner.ascentfunding.com/flatironschool,no,no,no,8
+2,Alchemy Code Lab,Program in Professional Software Development,"Portland, OR",23000,10500,8,no,no,yes,yes,yes,yes,SKACLPSD20,partner.ascentfunding.com/alchemycodelab,no,no,no,5
+87,Thinkful,Digital Marketing Flex,Online,6200,,6,yes,no,yes,no,no,no,SKTHDMFPT19,partner.ascentfunding.com/thinkful,yes,no,no,3
+94,University of San Diego,Hybrid Unversity of San Diego Coding Bootcamp,"San Diego, CA",11910,,9,no,no,yes,yes,yes,yes,SKFSHSDCB19,partner.ascentfunding.com/usdbootcamp,no,no,no,7
+22,Dartmouth College,Applied Data Science - Part Time,Online,6500,,9,no,no,yes,yes,yes,yes,SFEDADSPT19,partner.ascentfunding.com/dartmouth,no,no,no,6
+92,University of North Florida,Hybrid University of North Florida Cyber Bootcamp,"Jacksonville, FL",11910,,9,no,no,yes,yes,yes,yes,SKFSHNFCB19,partner.ascentfunding.com/unfcodingbootcamp,no,no,no,7
+94,University of San Diego,The University of San Diego Coding Bootcamp,"San Diego, CA",11910,,6,no,no,yes,yes,yes,yes,SKFSUSDCB19,partner.ascentfunding.com/usdbootcamp,no,no,no,3
+39,Galvanize,Data Science,"Los Angeles, CA",15980,9000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"Los Angeles, CA",15980,9000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+87,Thinkful,Digital Marketing Immersion,Online,8300,,4,yes,no,yes,no,no,no,SKTHDMFFT19,partner.ascentfunding.com/thinkful,yes,no,no,2
+50,LearningFuze,Module One,"Irvine, CA",3995,,6,no,no,yes,yes,yes,yes,SKFUZEM119,partner.ascentfunding.com/learningfuze,no,no,no,3
+50,LearningFuze,Module Two,"Irvine, CA",3995,,6,no,no,yes,yes,yes,yes,SKFUZEM219,partner.ascentfunding.com/learningfuze,no,no,no,3
+50,LearningFuze,Module Three,"Irvine, CA",3995,,6,no,no,yes,yes,yes,yes,SKFUZEM319,partner.ascentfunding.com/learningfuze,no,no,no,3
+50,LearningFuze,UI/UX Design Course,"Irvine, CA",2995,,6,no,no,yes,yes,yes,yes,SKFUZEUDPT20,partner.ascentfunding.com/learningfuze,no,no,no,3
+87,Thinkful,Technical Project Management Immersion,Online,10000,,6,yes,no,yes,no,no,no,SKTHTPMI19,partner.ascentfunding.com/thinkful,yes,no,no,3
+87,Thinkful,Technical Project Management Flex,Online,6200,,7,yes,no,yes,no,no,no,SKTHTPMF19,partner.ascentfunding.com/thinkful,yes,no,no,5
+51,Louisiana State University,LSU Cyber Bootcamp - Part Time,Online,11910,,9,no,no,yes,yes,yes,yes,SKFSLCYPT19,partner.ascentfunding.com/lsubootcamp,no,no,no,7
+51,Louisiana State University,LSU Coding Bootcamp - Part Time,Online,11910,,9,no,no,yes,yes,yes,yes,SKFSLCOPT19,partner.ascentfunding.com/lsubootcamp,no,no,no,7
+25,devCodeCamp,Fullstack Web Development,Online,15500,,7,no,no,yes,yes,yes,yes,SFDCCFWD19,partner.ascentfunding.com/devcodecamp,no,no,no,4
+3,Austin Coding Academy,Full Stack Web Development Online - Part Time,Online,10960,,12,yes,yes,yes,yes,yes,yes,SKACFSWD20,partner.ascentfunding.com/austincodingacademy,no,no,no,9
+3,Austin Coding Academy,Full Stack Web Development Online - Full Time,Online,10960,10000,7,yes,yes,yes,yes,yes,yes,SKACFSWDFT20,partner.ascentfunding.com/austincodingacademy,no,no,no,4
+97,We Can Code IT,RemoteCodeTM,Online,14950,4500,7,yes,yes,yes,yes,yes,yes,SKWCCRCTM20,partner.ascentfunding.com/wecancodeit,no,no,no,4
+37,Framingham State University,Web Development,"Framingham, MA",11995,,7,yes,yes,yes,yes,yes,yes,SFSEFSUWD20,partner.ascentfunding.com/framinghamstate,no,no,no,5
+37,Framingham State University,Data Science & Analytics,"Framingham, MA",11995,,7,yes,yes,yes,yes,yes,yes,SFSEFSUDSA20,partner.ascentfunding.com/framinghamstate,no,no,no,5
+81,St Joseph’s College of Maine,Web Development,Online,11995,,7,yes,yes,yes,yes,yes,yes,SFSESJCMWD20,partner.ascentfunding.com/sjcme,no,no,no,5
+98,Worcester State University,Web Development,"Worcester, MA",11995,,7,yes,yes,yes,yes,yes,yes,SFSEWSUWD20,partner.ascentfunding.com/worcesterstate,no,no,no,5
+98,Worcester State University,Clinical Trial Management,"Worcester, MA",11995,,7,yes,yes,yes,yes,yes,yes,SFSEWSUCTM20,partner.ascentfunding.com/worcesterstate,no,no,no,4
+50,LearningFuze,Part Time Modules 1-3,"Irvine, CA",11995,,12,no,no,yes,yes,yes,yes,SKFUZEPTM20,partner.ascentfunding.com/learningfuze,no,no,no,9
+33,Epicodus,Mobile & Web Development - Remote,Online,11600,2500,9,no,no,yes,yes,yes,yes,SKEPMWDR20,partner.ascentfunding.com/epicodus,no,no,no,7
+56,Momentum@Morehouse,Momentum@Morehouse,Online,15500,4500,6,no,no,yes,yes,yes,yes,SKMOMMM20,partner.ascentfunding.com/momentumatmorehouse,no,no,no,3
+45,Ironhack,Web Development Online,Online,12000,5000,5,yes,no,yes,no,yes,no,SKIHWDDFT20,partner.ascentfunding.com/ironhack,no,no,no,3
+9,Cal Poly Extended Education,Cal Poly Extended Education Cyber Bootcamp,Online,11910,,9,no,no,yes,yes,yes,yes,SKFSCPEECB20,partner.ascentfunding.com/calpolyextendedbootcamp,no,no,no,7
+31,Emerson College,Voice Technology & Coding,"Boston, MA",11995,,7,yes,yes,yes,yes,yes,yes,SFECVTC20,partner.ascentfunding.com/emerson,no,no,no,5
+27,DevMountain,iOS Development Full-Time In-Person,"Lehi, UT",9450,3000,6,no,no,yes,yes,yes,yes,SKDMIOS17,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,Software Quality Assurance Full-Time In-Person,"Lehi, UT",6450,3000,4,no,no,yes,yes,yes,yes,SFDMSQA20,partner.ascentfunding.com/devmountain,no,no,no,2
+27,DevMountain,UX Design Part-Time In-Person,"Lehi, UT",7450,,7,yes,yes,yes,yes,yes,yes,SFDMUDAH20,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,Web Development Full-Time In-Person,"Lehi, UT",9450,3000,6,no,no,yes,yes,yes,yes,SKDMWD17,partner.ascentfunding.com/devmountain,no,no,no,4
+42,Hackbright Academy,Software Engineering Fellowship,"San Francisco, CA",14650,7500,5,no,no,yes,yes,yes,yes,SKHBSEF20,partner.ascentfunding.com/hackbrightacademy,no,no,no,3
+17,Coding Dojo,Online Part-time Flex Bootcamp,Online,7995,,10,no,no,yes,yes,yes,yes,SFCDOPTFB20,partner.ascentfunding.com/codingdojo,no,no,no,7
+27,DevMountain,UX Design Full-Time Remote,Online,7450,3000,6,no,no,yes,yes,yes,yes,SFDMUXIR20,partner.ascentfunding.com/devmountain,no,no,no,4
+41,Hack Reactor,Software Engineering,"Boulder, CO",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+41,Hack Reactor,Software Engineering,"Phoenix, AZ",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+41,Hack Reactor,Software Engineering,"Platte, CO",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+41,Hack Reactor,Software Engineering,"Seattle, WA",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+15,Codesmith,Software Engineering Immersive - Remote,Online,19350,6000,6,no,no,yes,yes,yes,yes,SKCSSEIRFT20,partner.ascentfunding.com/codesmith,no,no,no,3
+15,Codesmith,Software Engineering Immersive - Part-Time,Online,19350,6000,12,no,no,yes,yes,yes,yes,SKCSSEIRPT20,partner.ascentfunding.com/codesmith,no,no,no,10
+30,Eleven Fifty Academy,UX/UI Design,Online,5000,,5,no,no,yes,no,yes,no,SK1150UIUX20,partner.ascentfunding.com/elevenfifty,no,no,no,2
+35,Flatiron School,Cybersecurity Engineering,"Washington, DC",18400,7500,6,no,no,yes,no,yes,no,SKFICE20,partner.ascentfunding.com/flatironschool,no,no,no,4
+35,Flatiron School,Cybersecurity Engineering,"New York City, NY",18400,7500,6,no,no,yes,no,yes,no,SKFICE20,partner.ascentfunding.com/flatironschool,no,no,no,4
+18,Coding Temple,Python + Data Science,Online,13495,,5,no,no,yes,yes,yes,yes,SFCTBDS20,partner.ascentfunding.com/codingtemple,no,no,no,3
+21,CyberWarrior Academy,CyberWarrior Accelerated Cybersecurity Training System (ACTS),Online,19500,10000,7,no,no,yes,yes,yes,yes,SFCWAACTS20,partner.ascentfunding.com/cyberwarrior,no,no,no,5
+36,Florida Atlantic University,Cyber Security,Online,6900,,10,no,no,yes,yes,yes,yes,SFQSL1CS20,partner.ascentfunding.com/fau,no,no,no,7
+36,Florida Atlantic University,Web Development,Online,5400,,10,no,no,yes,yes,yes,yes,SFQSL1WD20,partner.ascentfunding.com/fau,no,no,no,7
+36,Florida Atlantic University,Data Science,Online,7400,,10,no,no,yes,yes,yes,yes,SFQSL1DS20,partner.ascentfunding.com/fau,no,no,no,7
+36,Florida Atlantic University,Data Analytics,Online,6400,,10,no,no,yes,yes,yes,yes,SFQSL1DA20,partner.ascentfunding.com/fau,no,no,no,7
+4,Becker College,Cyber Security,Online,6900,,10,no,no,yes,yes,yes,yes,SFQSL4CS20,partner.ascentfunding.com/becker,no,no,no,7
+4,Becker College,Web Development,Online,5400,,10,no,no,yes,yes,yes,yes,SFQSL4WD20,partner.ascentfunding.com/becker,no,no,no,7
+4,Becker College,Data Science,Online,7400,,10,no,no,yes,yes,yes,yes,SFQSL4DS20,partner.ascentfunding.com/becker,no,no,no,7
+4,Becker College,Data Analytics,Online,6400,,10,no,no,yes,yes,yes,yes,SFQSL4DA20,partner.ascentfunding.com/becker,no,no,no,7
+64,Northeastern Illinois University,Cyber Security,Online,6900,,10,no,no,yes,yes,yes,yes,SFQSL5CS20,partner.ascentfunding.com/neiu,no,no,no,7
+64,Northeastern Illinois University,Web Development,Online,5400,,10,no,no,yes,yes,yes,yes,SFQSL5WD20,partner.ascentfunding.com/neiu,no,no,no,7
+64,Northeastern Illinois University,Data Science,Online,7400,,10,no,no,yes,yes,yes,yes,SFQSL5DS20,partner.ascentfunding.com/neiu,no,no,no,7
+64,Northeastern Illinois University,Data Analytics,Online,6400,,10,no,no,yes,yes,yes,yes,SFQSL5DA20,partner.ascentfunding.com/neiu,no,no,no,7
+17,Coding Dojo,Online Part-Time (1 Stack),Online,7995,,7,no,no,yes,yes,yes,yes,SFCDOPT1S20,partner.ascentfunding.com/codingdojo,no,no,no,4
+17,Coding Dojo,Online Part-Time (2 Stacks),Online,11995,,9,no,no,yes,yes,yes,yes,SFCDOPT2S20,partner.ascentfunding.com/codingdojo,no,no,no,6
+17,Coding Dojo,Online Part-Time (3 Stacks),Online,15995,,11,no,no,yes,yes,yes,yes,SFCDOPT3S20,partner.ascentfunding.com/codingdojo,no,no,no,8
+12,Career Foundry,Advanced UX Program,Online,8500,,0,yes,yes,no,no,no,no,SFCFAUP20,partner.ascentfunding.com/careerfoundry,no,no,no,13
+12,Career Foundry,Data Analytics Program,Online,6900,,13,yes,yes,yes,yes,yes,yes,SFCFDAP20,partner.ascentfunding.com/careerfoundry,no,no,no,10
+83,Tech Elevator,Tech Elevator Remote Program,Online,15500,4000,6,no,no,yes,yes,yes,yes,SFTERP20,partner.ascentfunding.com/techelevator,no,no,no,4
+42,Hackbright Academy,Software Engineering Fellowship Part Time Remote,Online,12650,,9,no,no,yes,yes,yes,yes,SKHBPTR20,partner.ascentfunding.com/hackbrightacademy,no,no,no,7
+23,Data Science Dojo,Practicum,Online,10000,,9,yes,yes,yes,yes,yes,yes,FSDSDPDSBIE20,partner.ascentfunding.com/datasciencedojo,no,no,no,7
+23,Data Science Dojo,Remote,Online,3799,,6,yes,yes,yes,yes,yes,yes,FSDSDPDSB20,partner.ascentfunding.com/datasciencedojo,no,no,no,4
+50,LearningFuze,Remote Full Immersion Program,Online,13995,4500,6,no,no,yes,yes,yes,yes,SKFUZERFIP20,partner.ascentfunding.com/learningfuze,no,no,no,4
+28,DigitalCrafts,Full Stack Flex (Online),Online,9950,,0,yes,yes,no,no,no,no,SFDCFSFO20,partner.ascentfunding.com/digitalcrafts,no,no,no,7
+28,DigitalCrafts,Full Stack Immersive (Online),Online,14950,,7,no,no,yes,yes,yes,yes,SFDCFSIO20,partner.ascentfunding.com/digitalcrafts,no,no,no,4
+11,Caltech,Caltech Cyber Bootcamp (Full Time),Online,13980,,6,no,no,yes,yes,yes,yes,SKFSCCB20,partner.ascentfunding.com/caltech,no,no,no,3
+11,Caltech,Caltech Cyber Bootcamp (Part Time),Online,13980,,9,no,no,yes,yes,yes,yes,SKFSCCBH20,partner.ascentfunding.com/caltech,no,no,no,7
+28,DigitalCrafts,Full Stack Flex,"Seattle, WA",10950,,0,yes,yes,no,no,no,no,SFDCFX17,partner.ascentfunding.com/digitalcrafts,no,no,no,7
+45,Ironhack,Part-Time Web Development Online,Online,12000,,9,yes,no,yes,no,yes,no,SFIHPTWDO20,partner.ascentfunding.com/ironhack,no,no,no,6
+76,Sabio/National,Sabio / National University Coding Program ,Online,13500,6000,6,yes,yes,yes,yes,yes,yes,SKSABCPNU20,partner.ascentfunding.com/sabionational,no,no,no,4
+93,University of Oklahoma,OU Outreach Coding Bootcamp (Part Time),Online,11910,,9,no,no,yes,yes,yes,yes,SKFSOUOCODB20,partner.ascentfunding.com/oubootcamp,no,no,no,7
+93,University of Oklahoma,OU Outreach Cyber Bootcamp (Part Time),Online,11910,,9,no,no,yes,yes,yes,yes,SKFSOUOCYBB20,partner.ascentfunding.com/oubootcamp,no,no,no,7
+76,Sabio/National,Sabio / National University Coding Program ,"Culver City, CA",13500,6000,6,yes,yes,yes,yes,yes,yes,SKSABCPNU20,partner.ascentfunding.com/sabionational,no,no,no,4
+76,Sabio/National,Sabio / National University Coding Program ,"Irvine, CA",13500,6000,6,yes,yes,yes,yes,yes,yes,SKSABCPNU20,partner.ascentfunding.com/sabionational,no,no,no,4
+76,Sabio/National,Sabio / National University Coding Program ,"Los Angeles, CA",13500,6000,6,yes,yes,yes,yes,yes,yes,SKSABCPNU20,partner.ascentfunding.com/sabionational,no,no,no,4
+51,Louisiana State University,LSU Cyber Bootcamp - Full Time,Online,11910,,6,no,no,yes,yes,yes,yes,SKFSLCYFT20,partner.ascentfunding.com/lsubootcamp,no,no,no,3
+17,Coding Dojo,Onsite Bootcamp,"Boise, ID",15995,,6,no,no,yes,yes,yes,yes,SKCD17,partner.ascentfunding.com/codingdojo,no,no,no,4
+39,Galvanize,Data Science,"San Jose, CA",15980,12000,6,no,no,yes,yes,yes,yes,SKGDS18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Software Engineering (Web Development),"San Jose, CA",15980,12000,6,no,no,yes,yes,yes,yes,SKGWD18,partner.ascentfunding.com/galvanize,no,no,no,3
+39,Galvanize,Remote Data Science - Part Time,Online,15980,,12,no,no,yes,yes,yes,yes,SKGRDSPT20,partner.ascentfunding.com/galvanize,no,no,no,9
+41,Hack Reactor,Software Engineering,"San Jose, CA",15980,7500,6,no,no,yes,yes,yes,yes,SKHRSEA18,partner.ascentfunding.com/hackreactor,no,no,no,4
+46,Kellogg School of Management,Professional Certificate in Digital Marketing,Online,6500,,9,no,no,yes,yes,yes,yes,SFEKPCDM20,partner.ascentfunding.com/kellogg,no,no,no,7
+47,Kenzie Academy,UX Design Part-Time,Online,10900,,9,yes,yes,yes,yes,yes,yes,SKFKAUDPT20,partner.ascentfunding.com/kenzie,no,no,no,6
+27,DevMountain,Web Development Part-Time Remote,Online,7450,,0,yes,yes,no,no,no,no,SKDMWDPTR20,partner.ascentfunding.com/devmountain,no,no,no,10
+96,Virgina Tech,Virginia Tech Cyber Bootcamp,Online,11910,,9,no,no,yes,yes,yes,yes,SFFSVTCYBB20,partner.ascentfunding.com/vatechbootcamp,no,no,no,7
+96,Virgina Tech,Virginia Tech Coding Bootcamp,Online,11910,,9,no,no,yes,yes,yes,yes,SFFSVTCODB20,partner.ascentfunding.com/vatechbootcamp,no,no,no,7
+27,DevMountain,Web Development Part-Time In-Person,"Lehi, UT",9450,,0,yes,yes,no,no,no,no,SKDMWDPTIP20,partner.ascentfunding.com/devmountain,no,no,no,10
+27,DevMountain,Software Quality Assurance Part-Time Remote,Online,4450,,6,no,no,yes,yes,yes,yes,SKDMSQAPTR20,partner.ascentfunding.com/devmountain,no,no,no,3
+27,DevMountain,Software Quality Assurance Part-Time In-Person,"Lehi, UT",6450,,6,no,no,yes,yes,yes,yes,SKDMSQAPTIP20,partner.ascentfunding.com/devmountain,no,no,no,3
+73,Codeup Cloud Academy,Cyber Cloud,"San Antonio, TX",17000,,6,yes,no,yes,no,yes,no,RSCACC20,partner.ascentfunding.com/cca,no,no,no,4
+33,Epicodus,Mobile & Web Development Part-Time,"Portland, OR",11600,2500,13,no,no,yes,yes,yes,yes,SKEPMWDPT20,partner.ascentfunding.com/epicodus,no,no,no,10
+33,Epicodus,Mobile & Web Development Part-Time,"Seattle, WA",11600,2500,13,no,no,yes,yes,yes,yes,SKEPMWDPT20,partner.ascentfunding.com/epicodus,no,no,no,10
+33,Epicodus,Mobile & Web Development Part-Time - Remote,Online,11600,2500,13,no,no,yes,yes,yes,yes,SKEPMWDPTR20,partner.ascentfunding.com/epicodus,no,no,no,10
+32,Emory University,Emory University Coding Bootcamp - Part Time,Online,10490,,9,no,no,yes,yes,yes,yes,SKFEUCBPT20,partner.ascentfunding.com/emorybootcamp,no,no,no,7
+32,Emory University,Emory University Cyber Bootcamp - Part Time,Online,10490,,9,no,no,yes,yes,yes,yes,SKFEUCYBPT20,partner.ascentfunding.com/emorybootcamp,no,no,no,7
+77,Saint Joseph's University,Saint Joseph's University Coding Certificate Bootcamp,Online,11995,,7,yes,yes,yes,yes,yes,yes,SKFSJUCCB20,partner.ascentfunding.com/stjosephs,no,no,no,5
+90,University of Hartford,University of Hartford Coding Certificate Bootcamp,Online,11995,,7,yes,yes,yes,yes,yes,yes,SKFUHCCB20,partner.ascentfunding.com/hartford,no,no,no,5
+59,New Horizons Orlando or New Horizons Tampa,Cyber Security IT Professional Program,"Orlando, FL",12995,,4,yes,yes,yes,yes,yes,yes,SKFNHOCSIPP20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,2
+59,New Horizons Orlando or New Horizons Tampa,CISCO CCNA,"Orlando, FL",5990,,3,yes,yes,yes,yes,yes,yes,SKFNHOCC20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,1
+59,New Horizons Orlando or New Horizons Tampa,Project Management Professional (PMP),"Orlando, FL",5398,,3,yes,yes,yes,yes,yes,yes,SKFNHOPMP20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,1
+59,New Horizons Orlando or New Horizons Tampa,Cyber Security IT Professional Program,Online,12995,,4,yes,yes,yes,yes,yes,yes,SKFNHOCSIPP20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,2
+59,New Horizons Orlando or New Horizons Tampa,CISCO CCNA,Online,5990,,3,yes,yes,yes,yes,yes,yes,SKFNHOCC20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,1
+59,New Horizons Orlando or New Horizons Tampa,Project Management Professional (PMP),Online,5398,,3,yes,yes,yes,yes,yes,yes,SKFNHOPMP20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,1
+59,New Horizons Orlando or New Horizons Tampa,Cyber Security IT Professional Program,"Tampa, FL",12995,,4,yes,yes,yes,yes,yes,yes,SKFNHTCSIPP20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,2
+59,New Horizons Orlando or New Horizons Tampa,CISCO CCNA,"Tampa, FL",5990,,3,yes,yes,yes,yes,yes,yes,SKFNHTCC20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,1
+59,New Horizons Orlando or New Horizons Tampa,Project Management Professional (PMP),"Tampa, FL",5398,,3,yes,yes,yes,yes,yes,yes,SKFNHTPMP20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,1
+59,New Horizons Orlando or New Horizons Tampa,Cyber Security IT Professional Program,Online,12995,,4,yes,yes,yes,yes,yes,yes,SKFNHTCSIPP20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,2
+59,New Horizons Orlando or New Horizons Tampa,CISCO CCNA,Online,5990,,3,yes,yes,yes,yes,yes,yes,SKFNHTCC20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,1
+59,New Horizons Orlando or New Horizons Tampa,Project Management Professional (PMP),Online,5398,,3,yes,yes,yes,yes,yes,yes,SKFNHTPMP20,partner.ascentfunding.com/nhflcenpangulf,no,no,no,1
+82,Suncoast Developers Guild,Web Development (Night Shift),Online,13900,3500,12,no,no,yes,yes,yes,yes,SKSCNS20,partner.ascentfunding.com/suncoast,no,no,no,9
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",MIS Network Administrator,"Wilkes-Barre, PA",21693,,10,yes,yes,yes,yes,yes,yes,SKFNHPWMNA20,partner.ascentfunding.com/nhnepa,no,no,no,7
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",IT Systems Administrator,"Wilkes-Barre, PA",15193,,9,yes,yes,yes,yes,yes,yes,SKFNHPWISA20,partner.ascentfunding.com/nhnepa,no,no,no,6
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computer & Network Support Technician,"Wilkes-Barre, PA",6980,,7,yes,yes,yes,yes,no,no,SKFNHPWCNST20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computerized Office Support,"Wilkes-Barre, PA",4994,,6,yes,yes,yes,yes,no,no,SKFNHPWCOS20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Graphic Web Designer,"Wilkes-Barre, PA",5990,,7,yes,yes,yes,yes,no,no,SKFNHPWGWD20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",MIS Network Administrator,Online,21693,,10,yes,yes,yes,yes,yes,yes,SKFNHPWMNA20,partner.ascentfunding.com/nhnepa,no,no,no,7
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",IT Systems Administrator,Online,15193,,9,yes,yes,yes,yes,yes,yes,SKFNHPWISA20,partner.ascentfunding.com/nhnepa,no,no,no,6
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computer & Network Support Technician,Online,6980,,7,yes,yes,yes,yes,no,no,SKFNHPWCNST20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computerized Office Support,Online,4994,,6,yes,yes,yes,yes,no,no,SKFNHPWCOS20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Graphic Web Designer,Online,5990,,7,yes,yes,yes,yes,no,no,SKFNHPWGWD20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",MIS Network Administrator,"Allentown, PA",21693,,10,yes,yes,yes,yes,yes,yes,SKFNHPAMNA20,partner.ascentfunding.com/nhnepa,no,no,no,7
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",IT Systems Administrator,"Allentown, PA",15193,,9,yes,yes,yes,yes,yes,yes,SKFNHPAISA20,partner.ascentfunding.com/nhnepa,no,no,no,6
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computer & Network Support Technician,"Allentown, PA",6980,,7,yes,yes,yes,yes,no,no,SKFNHPACNST20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computerized Office Support,"Allentown, PA",4994,,6,yes,yes,yes,yes,no,no,SKFNHPACOS20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Graphic Web Designer,"Allentown, PA",5990,,7,yes,yes,yes,yes,no,no,SKFNHPAGWD20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",MIS Network Administrator,Online,21693,,10,yes,yes,yes,yes,yes,yes,SKFNHPAMNA20,partner.ascentfunding.com/nhnepa,no,no,no,7
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",IT Systems Administrator,Online,15193,,9,yes,yes,yes,yes,yes,yes,SKFNHPAISA20,partner.ascentfunding.com/nhnepa,no,no,no,6
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computer & Network Support Technician,Online,6980,,7,yes,yes,yes,yes,no,no,SKFNHPACNST20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computerized Office Support,Online,4994,,6,yes,yes,yes,yes,no,no,SKFNHPACOS20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Graphic Web Designer,Online,5990,,7,yes,yes,yes,yes,no,no,SKFNHPAGWD20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",MIS Network Administrator,"Reading, PA",21693,,10,yes,yes,yes,yes,yes,yes,SKFNHPRMNA20,partner.ascentfunding.com/nhnepa,no,no,no,7
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",IT Systems Administrator,"Reading, PA",15193,,9,yes,yes,yes,yes,yes,yes,SKFNHPRISA20,partner.ascentfunding.com/nhnepa,no,no,no,6
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computer & Network Support Technician,"Reading, PA",6980,,7,yes,yes,yes,yes,no,no,SKFNHPRCNST20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computerized Office Support,"Reading, PA",4994,,6,yes,yes,yes,yes,no,no,SKFNHPRCOS20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Graphic Web Designer,"Reading, PA",5990,,7,yes,yes,yes,yes,no,no,SKFNHPRGWD20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",MIS Network Administrator,Online,21693,,10,yes,yes,yes,yes,yes,yes,SKFNHPRMNA20,partner.ascentfunding.com/nhnepa,no,no,no,7
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",IT Systems Administrator,Online,15193,,9,yes,yes,yes,yes,yes,yes,SKFNHPRISA20,partner.ascentfunding.com/nhnepa,no,no,no,6
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computer & Network Support Technician,Online,6980,,7,yes,yes,yes,yes,no,no,SKFNHPRCNST20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Computerized Office Support,Online,4994,,6,yes,yes,yes,yes,no,no,SKFNHPRCOS20,partner.ascentfunding.com/nhnepa,no,no,no,4
+58,"New Horizons Wilkes-Barre, New Horizons Allentown, or New Horizons Reading",Graphic Web Designer,Online,5990,,7,yes,yes,yes,yes,no,no,SKFNHPRGWD20,partner.ascentfunding.com/nhnepa,no,no,no,4
+54,MIT,Professional Certificate in Coding,Online,6500,,11,no,no,yes,yes,yes,yes,SFEMPCC20,partner.ascentfunding.com/mit,no,no,no,8
+67,NYU’s Tandon School of Engineering - Professional Certificate in UX & Emerging Interaction Design,Professional Certificate in UX & Emerging Interaction Design,Online,7000,,10,no,no,yes,yes,yes,yes,SFENUEID20,partner.ascentfunding.com/nyutandon,no,no,no,7
+17,Coding Dojo,Part-Time Online Data Science,Online,4995,,6,no,no,yes,yes,yes,yes,SFCDOPTDS20,partner.ascentfunding.com/codingdojo,no,no,no,3
+83,Tech Elevator,Tech Elevator Program,"Charlotte, NC",15500,4000,6,no,no,yes,yes,yes,yes,SFTE17A,partner.ascentfunding.com/techelevator,no,no,no,4
+83,Tech Elevator,Tech Elevator Program,"Chicago, IL",15500,4000,6,no,no,yes,yes,yes,yes,SFTE17A,partner.ascentfunding.com/techelevator,no,no,no,4
+53,Metis,Data Analytics Bootcamp,Online,9000,,4,no,no,yes,yes,yes,yes,SKMETADAB20,partner.ascentfunding.com/thisismetis,no,no,no,2
+53,Metis,Data Science & Engineering Bootcamp,Online,14500,,5,no,no,yes,yes,yes,yes,SKMETADSEB2,partner.ascentfunding.com/thisismetis,no,no,no,3
+53,Metis,Data Science Bootcamp,Online,14500,,5,no,no,yes,yes,yes,yes,SKMETADSB20,partner.ascentfunding.com/thisismetis,no,no,no,3
+53,Metis,Data Science & Machine Learning Bootcamp,Online,18500,,6,no,no,yes,yes,yes,yes,SKMETADSMLB,partner.ascentfunding.com/thisismetis,no,no,no,4
+53,Metis,Exploratory Data Analysis,Online,3500,,3,yes,no,yes,no,no,no,SKMETAEDA20,partner.ascentfunding.com/thisismetis,no,no,no,1
+53,Metis,Linear Regression & Web Scraping,Online,3500,,3,yes,no,yes,no,no,no,SKMETALRWS2,partner.ascentfunding.com/thisismetis,no,no,no,1
+53,Metis,Business Fundamental For Data Practitioners,Online,3500,,3,yes,no,yes,no,no,no,SKMETABFFDP,partner.ascentfunding.com/thisismetis,no,no,no,1
+53,Metis,Introduction to Data Engineering,Online,3500,,3,yes,no,yes,no,no,no,SKMETAIDE20,partner.ascentfunding.com/thisismetis,no,no,no,1
+53,Metis,Machine Learning Classification,Online,3500,,3,yes,no,yes,no,no,no,SKMETAMLC20,partner.ascentfunding.com/thisismetis,no,no,no,1
+53,Metis,Natural Language Processing & Unsupervised Learning,Online,3500,,3,yes,no,yes,no,no,no,SKMETANLPUL,partner.ascentfunding.com/thisismetis,no,no,no,1
+53,Metis,Deep Learning Fundamentals,Online,3500,,3,yes,no,yes,no,no,no,SKMETADLF20,partner.ascentfunding.com/thisismetis,no,no,no,1
+14,Code Fellows,Cybersecurity Daytime,Online,23000,6000,7,no,no,yes,yes,yes,yes,SKCSFT20,partner.ascentfunding.com/codefellows,no,no,no,5
+14,Code Fellows,Cybersecurity Nights & Weekends,Online,23000,,0,yes,yes,no,no,no,no,SFCSNWPT20,partner.ascentfunding.com/codefellows,no,no,no,9
+34,Evolve Security Academy,OSCP Bootcamp,Online,8250,,7,no,no,yes,yes,yes,yes,SFEVOSCPB20,partner.ascentfunding.com/evolveacademy,no,no,no,5
+84,The Data Incubator,The Data Science Fellowship Program,Online,9500,,5,yes,yes,yes,yes,yes,yes,SFTDIDSFP21,partner.ascentfunding.com/thedataincubator,no,no,no,2
+91,University of Illinois Chicago,UIC Coding Bootcamp - Part Time,Online,12910,,9,no,no,yes,yes,yes,yes,SFFSUCBPT121,partner.ascentfunding.com/uicbootcamp,no,no,no,7
+91,University of Illinois Chicago,UIC Coding Bootcamp - Full Time,Online,12910,,9,no,no,yes,yes,yes,yes,SFFSUCBFT121,partner.ascentfunding.com/uicbootcamp,no,no,no,7
+91,University of Illinois Chicago,UIC Cyber Bootcamp - Part Time,Online,12910,,9,no,no,yes,yes,yes,yes,SFFSUCBPT221,partner.ascentfunding.com/uicbootcamp,no,no,no,7
+47,Kenzie Academy,Software Engineering,Online,19900,,0,no,no,no,no,no,no,SKFKASE20,partner.ascentfunding.com/kenzie,yes,yes,no,9
+80,Springboard,Data Science Career Track Plus,Online,11639.5,,0,no,no,no,no,no,no,SFSBDSCTP21,partner.ascentfunding.com/springboard,yes,no,no,7
+80,Springboard,UI/UX Design Career Track,Online,11639.5,,0,no,no,no,no,no,no,SFSBUIDCT21,partner.ascentfunding.com/springboard,yes,no,no,10
+80,Springboard,UX Design Career Track,Online,7732.5,,0,no,no,no,no,no,no,SFSBUXDCT21,partner.ascentfunding.com/springboard,yes,no,no,7
+80,Springboard,Data Engineering Career Track,Online,9604.5,,0,no,no,no,no,no,no,SFSBDECT21,partner.ascentfunding.com/springboard,yes,no,no,7
+80,Springboard,Cyber Security Career Track,Online,11639.5,,0,no,no,no,no,no,no,SFSBCSCT21,partner.ascentfunding.com/springboard,yes,no,no,7
+78,San Jose State University,SJSU Coding Bootcamp - Part Time,Online,11995,,9,no,no,yes,yes,yes,yes,SFFSSJSUCBPT121,partner.ascentfunding.com/sjsubootcamp,no,no,no,7
+78,San Jose State University,SJSU Cyber Bootcamp - Part Time,Online,11995,,9,no,no,yes,yes,yes,yes,SFFSSJSUCBPT221,partner.ascentfunding.com/sjsubootcamp,no,no,no,7
+66,NYU’s Tandon School of Engineering - Professional Certificate in AR/VR Development and 3D Graphics,Professional Certificate in AR/VR Development and 3D Graphics,Online,7000,,10,no,no,yes,yes,yes,yes,SFENAVD3D21,partner.ascentfunding.com/nyutandonar,no,no,no,7
+46,Kellogg School of Management,Kellogg Accelerated Marketing Leadership Program,Online,9500,,9,no,no,yes,yes,yes,yes,SFEKAMLP21,partner.ascentfunding.com/kellogg,no,no,no,7
+46,Kellogg School of Management,Professional Certificate In Product Management,Online,5500,,8,no,no,yes,yes,yes,yes,SFEKCPM21,partner.ascentfunding.com/kellogg,no,no,no,6
+52,MAX Technical Training,MAXimum Coding Bootcamp,"Cincinnati, OH",15500,3000,6,no,no,yes,yes,yes,yes,SFMTTMAXCB21,partner.ascentfunding.com/maxtrain,no,no,no,4
+69,Parsity,Remote Full Stack Software Engineering,Online,7900,,6,no,no,yes,yes,yes,yes,SFPRFSSE21,partner.ascentfunding.com/parsity,no,no,no,4
+19,Colorado State University,CSU Professional Education Cyber Bootcamp - Part Time,Online,11490,,9,no,no,yes,yes,yes,yes,SFFSCSUPECB121,partner.ascentfunding.com/csubootcamp,no,no,no,7
+19,Colorado State University,CSU Professional Education Coding Bootcamp - Part Time,Online,11490,,9,no,no,yes,yes,yes,yes,SFFSCSUPECB221,partner.ascentfunding.com/csubootcamp,no,no,no,7
+10,"California State University, East Bay",Cal State East Bay Cyber Bootcamp - Part Time,Online,11995,,9,no,no,yes,yes,yes,yes,SFFSCSUEBCB121,partner.ascentfunding.com/csuebbootcamp,no,no,no,7
+10,"California State University, East Bay",Cal State East Bay Coding Bootcamp - Part Time,Online,11995,,9,no,no,yes,yes,yes,yes,SFFSCSUEBCB221,partner.ascentfunding.com/csuebbootcamp,no,no,no,7
+50,LearningFuze,Data Science Full Immersion Program,Online,12995,4500,6,no,no,yes,yes,yes,yes,SKFUZEDSFIP21,partner.ascentfunding.com/learningfuze,no,no,no,3
+38,Fullstack Academy,Data Analytics  - Full Time,Online,14500,,5,no,no,yes,yes,yes,yes,SKFSDAFT21,partner.ascentfunding.com/fullstackacademy,no,no,no,3
+38,Fullstack Academy,Data Analytics  - Part Time,Online,14500,,9,no,no,yes,yes,yes,yes,SKFSDAPT21,partner.ascentfunding.com/fullstackacademy,no,no,no,7
+55,Momentum Learning,Momentum's Software Engineering Part-Time,Online,12000,,9,no,no,yes,yes,yes,yes,SKMOMSEPT21,partner.ascentfunding.com/momentumlearn,no,no,no,6
+100,University of Vermont,University of Vermont Coding Bootcamp,Online,11995,,8,yes,yes,yes,yes,yes,yes,SFSEUVCB21,partner.ascentfunding.com/vermont,no,no,no,5
+77,Saint Joseph's University,Saint Joseph's University Clinical Trial Management Certificate Program,Online,9995,,7,yes,yes,yes,yes,yes,yes,SFSESJUCTMC21,partner.ascentfunding.com/stjosephs,no,no,no,4
+80,Springboard,Data Science Career Track,Online,9604.5,,0,no,no,no,no,no,no,SFSBDSCT21,partner.ascentfunding.com/springboard,yes,no,no,7
+80,Springboard,Data Analytics Career Track,Online,8139.5,,0,no,no,no,no,no,no,SFSBDACT21,partner.ascentfunding.com/springboard,yes,no,no,7
+80,Springboard,Machine Learning Engineering Career Track,Online,9604.5,,0,no,no,no,no,no,no,SFSBMLECT21,partner.ascentfunding.com/springboard,yes,no,no,7
+80,Springboard,Software Engineering Career Track,Online,11224.5,,0,no,no,no,no,no,no,SFSBSECT21,partner.ascentfunding.com/springboard,yes,no,no,10
+101,Virtanza,Professional Sales Ready,Online,5600,,6,yes,yes,yes,yes,yes,yes,SFVPSR21,partner.ascentfunding.com/virtanza,no,no,no,4
+101,Virtanza,Sales & The Art of Persuasion,Online,2850,,4,yes,no,yes,no,no,no,SFVSAP21,partner.ascentfunding.com/virtanza,no,no,no,1
+101,Virtanza,Sales Certificate,Online,12150,,6,yes,yes,yes,yes,yes,yes,SFVSC21,partner.ascentfunding.com/virtanza,no,no,no,4
+101,Virtanza,Sales Fundamentals For Entrepreneurs,Online,3950,,4,yes,yes,yes,yes,yes,yes,SFVSFE21,partner.ascentfunding.com/virtanza,no,no,no,2
+101,Virtanza,Sales Management One,Online,4500,,6,yes,yes,yes,yes,yes,yes,SFVSMO21,partner.ascentfunding.com/virtanza,no,no,no,3
+101,Virtanza,Sales Management Two,Online,4500,,6,yes,yes,yes,yes,yes,yes,SFVSMT21,partner.ascentfunding.com/virtanza,no,no,no,4
+101,Virtanza,Specialized Sales Study,Online,8100,,6,yes,yes,yes,yes,yes,yes,SFVSSS21,partner.ascentfunding.com/virtanza,no,no,no,4
+101,Virtanza,Technology Sales Bootcamp,Online,15000,,6,yes,yes,yes,yes,yes,yes,SFVTSB21,partner.ascentfunding.com/virtanza,no,no,no,4
+101,Virtanza,Technology Sales Certificate,Online,10500,,6,yes,yes,yes,yes,yes,yes,SFVTSC21,partner.ascentfunding.com/virtanza,no,no,no,4
+102,University of Wisconsin-Madison,University of Wisconsin-Madison Cybersecurity Bootcamp,Online,17500,,13,yes,yes,yes,yes,yes,yes,SFHUUWMCB21,partner.ascentfunding.com/wisc,no,no,no,10
+38,Fullstack Academy,Grace Hopper Program,"New York City, NY",17910,6500,6,no,no,yes,yes,yes,yes,SKFSGHP21,partner.ascentfunding.com/fullstackacademy,no,no,no,4
+27,DevMountain,DevMountain Full-Time 16 Weeks In-Person,"Dallas, TX",9751,3000,7,no,no,yes,yes,yes,yes,SKDMFSIP21,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,DevMountain Full-Time 16 Weeks In-Person,"Lehi, UT",9751,3000,7,no,no,yes,yes,yes,yes,SKDMFSIP21,partner.ascentfunding.com/devmountain,no,no,no,4
+27,DevMountain,DevMountain Full-Time 16 Weeks Remote,Online,7751,3000,7,no,no,yes,yes,yes,yes,SKDMFSR21,partner.ascentfunding.com/devmountain,no,no,no,4
+17,Coding Dojo,Online Part-Time Cybersecurity Bootcamp,Online,16495,,9,no,no,yes,yes,yes,yes,SFCDOPTCB21,partner.ascentfunding.com/codingdojo,no,no,no,6
