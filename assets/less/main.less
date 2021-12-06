@@ -32,6 +32,25 @@ a {
     padding-bottom: 15px;
 }
 
+.h2-custom2 {
+    font-size: 24px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    color: #222;
+}
+
+.h4-custom {
+    padding-bottom: 50px;
+}
+
+.h4-custom2 {
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    color: #222;
+    padding-bottom: 5px;
+}
+
 .p-custom {
     font-size: 16px;
     line-height: 1.63;
@@ -86,6 +105,18 @@ body {
     }
 }
 
+.col-wr {
+    display: flex;
+    flex-direction: column;
+}
+
+select {
+    width: 255px;
+    padding: 10px 0 10px 15px;
+    line-height: 1.63;
+    color: #6a6a6a;
+}
+
 #calculator-container {
     background-color: #fafafa;
     padding: 90px 0;
@@ -112,6 +143,58 @@ body {
             display: flex;
             justify-content: space-between;
             padding-bottom: 80px;
+            align-items: end;
+        }
+
+        span {
+            margin-bottom: 10px;
+            font-size: 16px;
+            line-height: 1.63;
+            color: #303032;
+        }
+
+        .slider-wrapp {
+
+            .slider {
+                width: 100%;
+            }
+
+            .price-wrapp {
+                display: flex;
+                justify-content: space-between;
+            }
+
+            p {
+                padding-bottom: 30px;
+            }
+        }
+
+        .example-loan-wrapp {
+            padding: 25px 20px;
+            margin: 0 15px;
+            background-color: #fafafa;
+            font-size: 14px;
+            line-height: 1.43;
+            letter-spacing: 0.5px;
+
+            .row:not(:last-child) {
+                padding-bottom: 50px;
+            }
+
+            .col {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .h2-custom2 {
+                padding-bottom: 50px;
+            }
+
+            b {
+                font-size: 24px;
+                font-weight: 800;
+                letter-spacing: 1.5px;
+            }
         }
 
     }
