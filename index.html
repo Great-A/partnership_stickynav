@@ -28,7 +28,9 @@
                     <div class="program-wrapp col-wr">
                         <span>Program</span>
                         <select name="program" id="program">
-                            <option value="">Select</option>
+                            <option value="">Program 1</option>
+                            <option value="">Program 2</option>
+                            <option value="">Program 3</option>
                         </select>
                     </div>
                     <div class="location-wrapp col-wr">
@@ -49,24 +51,24 @@
                 <div class="row">
                     <div class="col slider-wrapp">
                         <h4 class="h4-custom">Tuition Loan Amount</h4>
-                        <input id="tuitionLoanAmount" class="slider" type="range" min="2000" max="8500" step="500"
-                            value="8500">
+                        <input id="tuitionLoanAmount" class="slider" type="range" min="2000" max="10000" step="500"
+                            value="10000" oninput="changeRangeControl(this)" onchange="recalculateForm()">
                         <div class="price-wrapp">
                             <span>$2,000</span>
-                            <span>$8,500</span>
+                            <span>$10,000</span>
                         </div>
                         <p>You can borrow up to [max tuition amount] for this program.</p>
 
-                        <h4 class="h4-custom">Living Expense Loan Amount</h4>
+                        <!-- <h4 class="h4-custom">Living Expense Loan Amount</h4>
                         <input class="slider" type="range" min="0" max="4500" step="1" value="0">
-                        <div class="price-wrapp">
+                        <div class="price-wrapp" oninput="changeRangeControl(this)" onchange="recalculateForm()">
                             <span>0</span>
                             <span>$4,500</span>
                         </div>
-                        <p>You can borrow up to $4,500 for living expenses for this program.</p>
+                        <p>You can borrow up to $4,500 for living expenses for this program.</p> -->
 
                         <h4 class="h4-custom">Interest Rate</h4>
-                        <input class="slider" id="interestRate" type="range" min="6.5" max="13.75" value="6.5"
+                        <input class="slider" id="interestRate" type="range" min="6.5" max="13.75" value="9"
                             step="0.25" oninput="changeRangeControl(this)" onchange="recalculateForm()">
                         <div class="price-wrapp">
                             <span>6,5%</span>
@@ -79,21 +81,21 @@
                         <div class="row">
                             <div class="col">
                                 Monthly in-school payments
-                                <b><label data-units="" id="LabelForMonthlyOnSchoolPayments"></label></b>
+                                <b><label data-units="" id="LabelForMonthlyInSchoolPayments"></label></b>
                             </div>
                             <div class="col">
                                 Monthly post-school payments
-                                <b>$230</b>
+                                <b><label data-units="" id="LabelForMonthlyPostSchoolPayments"></label></b>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col">
                                 Total loan amount
-                                <b>$5,000</b>
+                                <b><label data-units="" id="LabelForTotalLoanAmount"></label></b>
                             </div>
                             <div class="col">
                                 Total cost of loan
-                                <b>$6,500</b>
+                                <b><label data-units="" id="LabelForTotalRepayment"></label></b>
                             </div>
                         </div>
                         <div class="row">
@@ -112,7 +114,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="deferredRepaymentID">
+                            <input class="form-check-input" type="checkbox" value="" id="deferredRepaymentID" checked>
                             <label class="form-check-label" for="deferredRepaymentID">
                                 <h4 class="h4-custom2">Deferred Repayment </h4>
                                 <p>No payments in school</p>
@@ -143,7 +145,7 @@
 
                     <div class="col">
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="" id="month36Payments">
+                            <input class="form-check-input" type="checkbox" value="36" id="month36Payments" checked>
                             <label class="form-check-label" for="month36">
                                 <h4 class="h4-custom2">36 Months</h4>
                                 <p>36 full monthly payments</p>
@@ -242,3 +244,5 @@
 </body>
 
 </html>
+
+f
